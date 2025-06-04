@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harry81ful
+- 👋 Hi, I’m Harish Kantharaju
 - 👀 I’m interested in ...Learning Testing
 - 🌱 I’m currently learning ... Selenium Webdriver
 - 💞️ I’m looking to collaborate on ...
